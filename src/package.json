@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@antv/s2": "latest",
+    "@antv/s2-react": "latest",
+    "antd": "latest",
+    "insert-css": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "main": "index.tsx"
+}
