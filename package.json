@@ -6,17 +6,21 @@
     "insert-css": "latest",
     "koa-forward-request": "^0.8.0",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "tsx": "^3.12.1",
+    "@types/node": "latest"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0",
+    "react-scripts": "latest",
+    "typescript-scripts": "latest",
     "typescript": "latest"
   },
-  "main": "index.tsx",
+  "main": "src/index.tsx",
   "name": "x35ztt",
   "description": null,
   "version": "0.0.2",
   "scripts": {
+    "dev": "typescript-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
