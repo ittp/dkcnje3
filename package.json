@@ -4,6 +4,7 @@
     "@antv/s2-react": "latest",
     "antd": "latest",
     "insert-css": "latest",
+    "koa-forward-request": "^0.8.0",
     "react": "latest",
     "react-dom": "latest"
   },
